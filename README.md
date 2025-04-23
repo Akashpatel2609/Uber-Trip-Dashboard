@@ -106,5 +106,3 @@ Analyze Uber trip data in Power BI to surface booking trends, revenue metrics, t
 
 ---
 
-## 📂 Repository Structure
-
